@@ -99,6 +99,7 @@ aside {
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
     font-weight: 700;
     color: #f05f40;
+    white-space: nowrap;
 }
 
 .navbar-default .navbar-header .navbar-brand:hover,
@@ -138,6 +139,7 @@ aside {
 
     .navbar-default .navbar-header .navbar-brand {
         color: rgba(255,255,255,.7);
+        padding: 15px 15px;
     }
 
     .navbar-default .navbar-header .navbar-brand:hover,
