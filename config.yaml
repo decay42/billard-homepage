@@ -1,0 +1,10 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "http://decay42.github.io/billard-homepage"
+title: "1. Magdeburger Poolbillardverein"
+canonifyurls: true
+---
