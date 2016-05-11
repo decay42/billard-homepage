@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1. Magdeburger Poolbillardverein</title>
+    <link>http://decay42.github.io/billard-homepage/</link>
+    <description>Recent content on 1. Magdeburger Poolbillardverein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://decay42.github.io/billard-homepage/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://decay42.github.io/billard-homepage/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://decay42.github.io/billard-homepage/impressum/</guid>
+      <description>&lt;html lang=&#34;{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}&#34;&gt;
+    &lt;head&gt;
+        {{ partial &#34;head.html&#34; . }}
+    &lt;/head&gt;
+    &lt;body&gt;
+    	asd
+    &lt;/body&gt;
+&lt;/html&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
