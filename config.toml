@@ -19,8 +19,8 @@ theme = "hugo-creative-theme"
 
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-	name = "Your name"
-	description = "Your description"
+	name = "1. Magdeburger PBV"
+	description = "Homepage des 1. Magdeburger Poolbillardvereins"
 
 	# The path must be relative to the static folder
 	favicon = "favicon.ico"
@@ -49,6 +49,8 @@ theme = "hugo-creative-theme"
 	[params.contact]
 		headline = "So erreichst du uns!"
 		description = "Du möchtest mal reinschnuppern? Dann komm doch zu unseren Trainingszeiten vorbei!"
+		contact_url = "http://www.billardhouse-md.de/"
+		address0 = "Billardhouse Magdeburg"
 		address1 = "Liebknechtstraße 87"
 		address2 = "39110 Magdeburg"
 		times = "Montag und Mittwoch, ab 18 Uhr"
