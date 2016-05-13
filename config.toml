@@ -42,7 +42,7 @@ theme = "hugo-creative-theme"
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "Herzlich Willkommen"
 		subtitle   = "Hier entsteht die Website des 1. Magdeburger Poolbillardvereins."
-		buttonText = "Erfahre wie und wo du uns erreichst"
+		buttonText = "Erfahre wie du uns erreichst"
 
 
 	# Contact section
